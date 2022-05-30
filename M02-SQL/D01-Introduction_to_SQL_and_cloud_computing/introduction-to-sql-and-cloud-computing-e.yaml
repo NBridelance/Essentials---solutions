@@ -1,0 +1,74 @@
+contents:
+- duration: 30 min
+  file: 01-Introduction_to_Cloud_Computing.ipynb
+  resources:
+    - target: world_happiness_record.csv
+      title: world_happiness_record.csv
+  slug: introduction-to-cloud-computing-e
+  title: Introduction to cloud computing ☁️
+  type: lecture
+- duration: 30 min
+  file: 02-Introduction_to_SQL_Part_A.ipynb
+  resources:
+    - target: 02-Introduction_to_SQL_part_A.pptx.pdf
+      title: 02-Introduction_to_SQL_part_A.pdf
+  slug: introduction-to-sql-part-a-e
+  title: Introduction to SQL - Part A 🐵
+  type: lecture
+- duration: 30 min
+  file: 03-From_Datalake_to_DataWarehouse.ipynb
+  resources:
+      - target: world_happiness_record.csv
+        title: world_happiness_record.csv
+  slug: from-datalake-to-datawarehouse-e
+  title: From Data lake to Data warehouse 🌊
+  type: lecture
+- duration: 30 min
+  file: 04-Introduction_to_SQL_Part_B.ipynb
+  resources:
+      - target: 04-Slides_Introduction_to_SQL_part_B.pptx.pdf
+        title: 04-Slides_Introduction_to_SQL_part_B.pdf
+  slug: introduction-to-sql-part-b-e
+  title: Introduction to SQL - Part B 🦍
+  type: lecture
+- duration: 30 min
+  file: 01-Fill_a_Datalake.ipynb
+  resources: 
+      - target: EUROPEAN_SOCCER.zip
+        title: EUROPEAN_SOCCER.zip
+      - target: IMDB.zip
+        title: IMDB.zip
+      - target: NYSE.zip
+        title: NYSE.zip
+      - target: world_happiness_record.csv
+        title: world_happiness_record.csv      
+  slug: fill-a-datalake-e
+  title: Fill a Data lake 🪣
+  type: exercice
+- duration: 30 min
+  file: 02-Chauffeurs_Database.ipynb
+  resources: null
+  slug: chauffeurs-database-e
+  title: Chauffeurs Database 🏎️
+  type: exercice
+- duration: 30 min
+  file: 03-ETL_to_Big_Query.ipynb
+  resources: null
+  slug: etl-to-big-query-e
+  title: ETL to Big Query 🎡
+  type: exercice
+- duration: 30 min
+  file: 04-IMDB_World_Happiness_Record_and_HackerRank.ipynb
+  resources: null
+  slug: imdb-world-happiness-record-and-hackerrank-e
+  title: IMDB, World Happiness Record & HackerRank ☺️
+  type: exercice
+description: null
+duration: 1 day
+goals: null
+introductionVideoId: null
+level: Easy
+prerequisites: null
+slug: introduction-to-sql-and-cloud-computing-e
+tags: null
+title: Introduction to SQL and cloud computing
